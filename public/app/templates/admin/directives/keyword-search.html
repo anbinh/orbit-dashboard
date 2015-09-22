@@ -1,0 +1,57 @@
+<section class="panel panel-primary">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="panel-action panel-action-toggle" data-panel-toggle=""></a>
+            <a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss=""></a>
+        </div>
+        <h2 class="panel-title">{{title}}</h2>
+        <p class="panel-subtitle">{{subtitle}}</p>
+    </header>
+    <div class="panel-body">
+        <div class="pull-right">
+            <form name="myForm">
+                <select class="form-control" name="repeatSelect" id="repeatSelect" ng-model="options.selectedFilter" ng-options="option.name for option in options.filters track by option.days" ng-change="filter(options.selectedFilter.days)">
+                </select>
+            </form>
+        </div>  
+        <div>
+            <!-- Nav tabs -->
+            <tabset>
+                <tab>
+                    <tab-heading>
+                        <i class="fa fa-bar-chart"></i> 
+                    </tab-heading>
+                    <div class="chart chart-sm" id="plotKeywordSearch" class="chart-active"></div>
+                </tab>
+                <tab >
+                    <tab-heading>
+                        <i class="fa fa-table"></i> 
+                    </tab-heading>
+                    <div ng-show="keywordsByCountry.keywords.length == 0" class="row center" ng-show="keywords.length == 0">
+                        <br/>
+                        <br/>
+                        <section class="panel">
+                            <div class="panel-body">
+                                {{errorinfo}}
+                            </div>
+                        </section>
+                    </div>
+                    <table ng-show="keywordsByCountry.keywords.length > 0" class="table table-hover  table-bordered table-striped mb-none" id="datatable-default12">
+                        <thead>
+                            <tr>
+                                <th>Keyword</th>
+                                <th>Count</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="keyword in keywordsByCountry.keywords track by $index">
+                                <td>{{keyword.keyword}} </td>
+                                <td>{{keyword.count}} </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </tab>
+            </tabset>
+        </div>
+    </div>
+</section>

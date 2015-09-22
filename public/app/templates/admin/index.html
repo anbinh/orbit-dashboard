@@ -1,0 +1,74 @@
+<section role="main" class="content-body">
+    <header class="page-header">
+        <h2>Dashboard</h2>
+        <div class="right-wrapper pull-right">
+            <ol class="breadcrumbs">
+                <li>
+                    <a href="/dashboard/#/">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </li>
+                <li><span>Dashboard</span></li>
+            </ol>
+        </div>
+    </header>
+    <!-- start: page -->
+    <!-- start: page -->
+    <div class="row">
+        <div class="col-xs-12">
+            <section class="panel panel-featured panel-featured-primary">
+                <header class="panel-heading">
+                    <div class="panel-actions">
+                        <a class="panel-action panel-action-toggle" data-panel-toggle></a>
+                        <a class="panel-action panel-action-dismiss" data-panel-dismiss></a>
+                    </div>
+                    <h2 class="panel-title">World Map</h2>
+                    <p class="panel-subtitle">Your current selected country: {{selectedCountry}}</p>
+                </header>
+                <div class="panel-body">
+                    <div id="vector-map-world" style="height: 500px; width: 100%;" data-vector-map data-plugin-options='{ "map": "world_en" }'></div>
+                </div>
+            </section>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="pull-right">
+                <a href="" class="btn {{(currentLayout==6)? 'disabled' : ''}}" ng-click="changeLayout(2)"><i class="fa fa-2x fa-columns"></i></a>
+                <a href="" class="btn {{(currentLayout==12)? 'disabled' : ''}}" ng-click="changeLayout(1)"><i class="fa fa-2x fa-list-alt"></i></a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-{{currentLayout}}">
+            <users-country-visit country='{{selectedCountry}}' title='Top 10 Users' errorinfo='There is no users found' subtitle='Display top 10 users - based on number of visits'></users-country-visit>
+        </div>
+        <div class="col-md-{{currentLayout}}">
+            <keyword-search country='{{selectedCountry}}' title='Top 10 Keywords' errorinfo='There is no keywords found' subtitle='Display top 10 keyword search'></keyword-search>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-{{currentLayout}}">
+            <visitors-role country='{{selectedCountry}}' title="Top 10 Visitors Roles" errorinfo='There is no visitors role found' subtitle='Display the number of visitors based on Role (Manager, Engineer, Analyst)'></visitors-role>
+        </div>
+        <div class="col-md-{{currentLayout}}">
+            <searched-projects-per-category country='{{selectedCountry}}' title="Top Searched Projects" errorinfo='No data to plot' subtitle='Display the number of searched projects listed per category'></searched-projects-per-category>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-{{currentLayout}}">
+            <page-views country='{{selectedCountry}}' title="Page Views" errorinfo='There is no page views' subtitle='Display the number of page views per day and week'></page-views>
+        </div>
+        <div class="col-md-{{currentLayout}}">
+            <completed-projects country='{{selectedCountry}}' title="Completed Projects" errorinfo='There is no completed projects' subtitle='Display the number of completed projects'></completed-projects>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <content-pieces country='{{selectedCountry}}' title="Pieces Of Content" errorinfo='There is no page views' subtitle='Display the number of content pieces per week'></content-pieces>
+        </div>
+        
+    </div>
+    <!-- end: page -->
+</section>

@@ -1,0 +1,61 @@
+<section class="panel panel-primary" >
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="panel-action panel-action-toggle" data-panel-toggle=""></a>
+            <a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss=""></a>
+        </div>
+        <h2 class="panel-title">{{title}}</h2>
+        <p class="panel-subtitle">{{subtitle}}</p>
+    </header>
+    <div class="panel-body">
+        <div class="pull-right">
+            <form name="myForm">
+                <select class="form-control" name="repeatSelect" id="repeatSelect" ng-model="options.selectedFilter" ng-options="option.name for option in options.filters track by option.days" ng-change="filter(options.selectedFilter.days)">
+                </select>
+
+            </form>
+        </div>
+
+        <div>
+            <!-- Nav tabs -->
+            <tabset>
+                <tab>
+                    <tab-heading>
+                        <i class="fa fa-bar-chart"></i>
+                    </tab-heading>
+                    <div class="chart chart-sm" id="plotUsersVisit" class="chart-active"></div>
+                </tab>
+                <tab>
+                    <tab-heading>
+                        <i class="fa fa-table"></i>
+                    </tab-heading>
+                    <div ng-show="usersByCountryVisits.users.length == 0" class="row center" ng-show="keywords.length == 0">
+                        <br/>
+                        <br/>
+                        <section class="panel">
+                            <div class="panel-body">
+                                {{errorinfo}}
+                            </div>
+                        </section>
+                    </div>
+                    <table ng-show="usersByCountryVisits.users.length > 0" class="table table-hover  table-bordered table-striped mb-none" style="cursor : pointer">
+                        <thead>
+                            <tr>
+                                <th>Photo</th>
+                                <th>Name</th>
+                                <th># visits</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="user in usersByCountryVisits.users track by $index" ng-click="goToUserDetail(user.user._id)">
+                                <td><img height="50px" ng-src="{{user.user.picture}}"></td>
+                                <td>{{user.user.name}} </td>
+                                <td>{{user.visits}} </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </tab>
+            </tabset>
+        </div>
+    </div>
+</section>

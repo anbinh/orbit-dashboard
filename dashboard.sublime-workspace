@@ -1,0 +1,2075 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"las",
+				"lastDate"
+			],
+			[
+				"page",
+				"pageStat"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"new",
+				"newProject"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bs3-co",
+				"bs3-col:3	bs3-col-3"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"va",
+				"value	AngularJS"
+			],
+			[
+				"CONS",
+				"console"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"time",
+				"timeAvailability"
+			],
+			[
+				"ng-d",
+				"ng-disabled	AngularJS"
+			],
+			[
+				"po",
+				"posterUrl"
+			],
+			[
+				"vide",
+				"videoUrl"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"td",
+				"text-decoration"
+			],
+			[
+				"bs3-col",
+				"bs3-col:6	bs3-col-6"
+			],
+			[
+				"bs3-",
+				"bs3-jumbotron	bs3-jumbotron"
+			],
+			[
+				"bs3-pa",
+				"bs3-pagination	bs3-pagination"
+			],
+			[
+				"bs3-bu",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"read",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"effo",
+				"effort"
+			],
+			[
+				"eff",
+				"effort"
+			],
+			[
+				"date",
+				"DATE_FORMAT"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"is",
+				"isReadonly"
+			],
+			[
+				"fo",
+				"function"
+			],
+			[
+				"project",
+				"project_id"
+			],
+			[
+				"proj",
+				"project_id"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"pr",
+				"project_id"
+			],
+			[
+				"rate",
+				"rateInit"
+			],
+			[
+				"img",
+				"imgUrl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"own",
+				"owner"
+			],
+			[
+				"in",
+				"invitedUser"
+			],
+			[
+				"inpu",
+				"inputValue"
+			],
+			[
+				"appl",
+				"appliedUsers"
+			],
+			[
+				"app",
+				"appliedUsers"
+			],
+			[
+				"sele",
+				"selectedUsers"
+			],
+			[
+				"mat",
+				"matchedUsers"
+			],
+			[
+				"inviation",
+				"invitation"
+			],
+			[
+				"ap",
+				"appliedUsers"
+			],
+			[
+				"sel",
+				"selectedUsers"
+			],
+			[
+				"invit",
+				"invitedUsers"
+			],
+			[
+				"fr",
+				"for	for (…) {…}"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"has",
+				"hasApplied"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"Pro",
+				"Projects"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"query",
+				"querystring"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bulk",
+				"bulk-ntf"
+			],
+			[
+				"listing",
+				"listings"
+			],
+			[
+				"temp",
+				"templateHTML"
+			],
+			[
+				"lisitn",
+				"listing"
+			],
+			[
+				"op",
+				"optionsBar"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"strpl",
+				"str_split"
+			],
+			[
+				"empl",
+				"employee"
+			],
+			[
+				"dea",
+				"dealer_id"
+			],
+			[
+				"employ",
+				"employee"
+			],
+			[
+				"employee",
+				"employee_id"
+			],
+			[
+				"dealer",
+				"dealerId"
+			],
+			[
+				"missin",
+				"missingEmployeeId"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"month",
+				"month_year"
+			],
+			[
+				"conta",
+				"concatValue"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"devi",
+				"device_id"
+			],
+			[
+				"proces",
+				"processSignIn"
+			],
+			[
+				"vehi",
+				"vehicle"
+			],
+			[
+				"edit",
+				"editCity"
+			],
+			[
+				"Back",
+				"Backbone"
+			],
+			[
+				"lca",
+				"location"
+			],
+			[
+				"this",
+				"thisRoute"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"veh",
+				"vehicle"
+			],
+			[
+				"vehicel",
+				"vehicles"
+			],
+			[
+				"emp",
+				"employees"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"tmp",
+				"template"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"Mongo",
+				"MongoId"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"conv",
+				"conversation"
+			],
+			[
+				"closed",
+				"closed_by_party_a"
+			],
+			[
+				"conve",
+				"conversationId"
+			],
+			[
+				"cov",
+				"conversations"
+			],
+			[
+				"pary",
+				"partyA"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"last",
+				"last_message"
+			],
+			[
+				"USER",
+				"USER_AVATAR"
+			],
+			[
+				"employe",
+				"employees"
+			],
+			[
+				"messag",
+				"messages"
+			],
+			[
+				"par",
+				"party_b_role"
+			],
+			[
+				"party",
+				"party_b"
+			],
+			[
+				"paryt",
+				"party_b"
+			],
+			[
+				"part",
+				"party_b_role"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"sene",
+				"sender_name"
+			],
+			[
+				"sender",
+				"sender"
+			],
+			[
+				"party_b",
+				"party_b_role"
+			],
+			[
+				"data-par",
+				"data-party-a-role"
+			],
+			[
+				"emplid",
+				"employeeIds"
+			],
+			[
+				"conver",
+				"conversationId"
+			],
+			[
+				"cone",
+				"conversation"
+			],
+			[
+				"receiv",
+				"received"
+			],
+			[
+				"src",
+				"src_user"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"deal",
+				"dealer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 333.0,
+		"last_filter": "syntahtml",
+		"selected_items":
+		[
+			[
+				"syntahtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsynhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsynhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitgr",
+				"Git: Graph All"
+			],
+			[
+				"setshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"gitpushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpucu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gitquic",
+				"Git: Quick Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"GIT",
+				"Git: Add..."
+			],
+			[
+				"GIT CONFI",
+				"Git: Log Current File"
+			],
+			[
+				"GIT PUSH ",
+				"Git: Push Current Branch"
+			],
+			[
+				"GITP",
+				"Git: Push"
+			],
+			[
+				"GIT STA",
+				"Git: Status"
+			],
+			[
+				"GITPUS",
+				"Git: Push"
+			],
+			[
+				"PUSH",
+				"Git: Push"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"fom",
+				"Format Code"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"For",
+				"Format Code"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"frm",
+				"Format Code"
+			],
+			[
+				"foramt",
+				"Format Code"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"goimpo",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"goimpi",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"f",
+				"GoSublime: Fmt the current file (without saving it)"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				":rename",
+				"File: Rename"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"rmove",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"romove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"newgo",
+				"GoSublime: New Go File"
+			],
+			[
+				"new go",
+				"GoSublime: New Go File"
+			],
+			[
+				"test",
+				"GoSublime: Run Tests"
+			],
+			[
+				"tes",
+				"GoSublime: Run Tests"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"GoSublime: n",
+				"GoSublime: Show documentation hint"
+			],
+			[
+				"GoSublime: e",
+				"GoSublime: Show errors"
+			],
+			[
+				"gosub",
+				"GoSublime: Show errors"
+			],
+			[
+				"go",
+				"GoSublime: Show last build output"
+			],
+			[
+				"runtet",
+				"GoSublime: Run Tests"
+			],
+			[
+				"brow",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"gosubrbpa",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"imp",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"impo",
+				"Snippet: Import"
+			],
+			[
+				"goim",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"fmt",
+				"GoSublime: Fmt and save"
+			],
+			[
+				"gonew",
+				"GoSublime: New Go File"
+			],
+			[
+				"share",
+				"GoSublime: Share (on play.golang.org)"
+			],
+			[
+				"newfg",
+				"GoSublime: New Go File"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"gofmt",
+				"GoSublime: Fmt and save"
+			],
+			[
+				"go show",
+				"GoSublime: Show errors"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"copy tags",
+				"File: Copy as Tag script"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"open gis",
+				"Gist: Open Gist"
+			],
+			[
+				"creat",
+				"Gist: Create Public Gist"
+			],
+			[
+				"subshow",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brw",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"fetchma",
+				"Fetch: Manage"
+			],
+			[
+				".o",
+				"Snippet: .removeData"
+			],
+			[
+				"json",
+				"Snippet: jQuery (Select or Create DOM Element)"
+			],
+			[
+				"ajs",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"aj",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"ajas",
+				"Snippet: $.ajaxSetup"
+			],
+			[
+				"ajax",
+				"Snippet: ajaxSend"
+			],
+			[
+				"$.",
+				"Snippet: $.getJSON"
+			],
+			[
+				".b",
+				"Snippet: .bind"
+			],
+			[
+				"replace",
+				"Snippet: replaceWith"
+			],
+			[
+				"$",
+				"Snippet: $.each"
+			],
+			[
+				"$.get",
+				"Snippet: $.getJSON"
+			],
+			[
+				"text",
+				"Snippet: $.extend"
+			],
+			[
+				"toa",
+				"Snippet: toArray"
+			],
+			[
+				"jquey",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"jetj",
+				"Snippet: jQuery.getJSON"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery.ajaxSetup"
+			],
+			[
+				"jque",
+				"Snippet: jQuery.each"
+			],
+			[
+				"jq",
+				"Snippet: jQuery.each"
+			],
+			[
+				"jQ",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"jqu",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"snipet le",
+				"Snippet: Get Elements"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"snippet ",
+				"Snippet: POST['…']"
+			],
+			[
+				"syncofe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"packa c is",
+				"Package Control: Install Package"
+			],
+			[
+				"syntap",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntaxphp",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/anbinh/www/orbit_dashboard"
+	],
+	"file_history":
+	[
+		"/Users/anbinh/www/school_service/public/app/search/list.html",
+		"/Users/anbinh/www/school_service/server/analytics/KeywordStatsSchema.js",
+		"/Users/anbinh/www/school_service/server/analytics/analyticsSchema.js",
+		"/Users/anbinh/www/school_service/public/app/loaduser/loadUserController.js",
+		"/Users/anbinh/www/school_service/server/inc/navigation.ejs",
+		"/Users/anbinh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/anbinh/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/anbinh/www/school_service/server/inc/header.ejs",
+		"/Users/anbinh/www/school_service/public/app/home/homeFactory.js",
+		"/Users/anbinh/www/school_service/public/app/project/projectFactory.js",
+		"/Users/anbinh/www/school_service/server/project/projectRouter.js",
+		"/Users/anbinh/www/school_service/public/app/project/projectListController.js",
+		"/Users/anbinh/www/school_service/public/app/home/homeController.js",
+		"/Users/anbinh/www/school_service/public/app/search/searchController.js",
+		"/Users/anbinh/www/school_service/public/app/project/projectCategoryController.js",
+		"/Users/anbinh/www/school_service/public/app/user/user.html",
+		"/Users/anbinh/www/school_service/public/app/user/profile.html",
+		"/Users/anbinh/www/school_service/public/app/project/project_cat.html",
+		"/Users/anbinh/www/school_service/public/app/assets/css/style.css",
+		"/Users/anbinh/www/school_service/public/app/project/project_list.html",
+		"/Users/anbinh/www/school_service/server/inc/footer.ejs",
+		"/Users/anbinh/www/school_service/public/app/project/projectController.js",
+		"/Users/anbinh/www/school_service/server/project/projectSchema.js",
+		"/Users/anbinh/www/school_service/public/app/user/list.html",
+		"/Users/anbinh/www/school_service/public/app/loaduser/loaduser.html",
+		"/Users/anbinh/www/school_service/server/shared/loaduser.ejs",
+		"/Users/anbinh/www/school_service/public/app/project/projectDetailController.js",
+		"/Users/anbinh/www/school_service/public/app/app.js",
+		"/Users/anbinh/www/school_service/server/users/usersSchema.js",
+		"/Users/anbinh/www/school_service/server/users/usersRouter.js",
+		"/Users/anbinh/www/school_service/public/app/user/userController.js",
+		"/Users/anbinh/www/school_service/public/app/project/projectDetail.html",
+		"/Users/anbinh/www/school_service/public/app/user/profileEditController.js",
+		"/Users/anbinh/www/school_service/server/shared/project.ejs",
+		"/Users/anbinh/www/school_service/server/index/indexRouter.js",
+		"/Users/anbinh/www/school_service/public/app/home/home.html",
+		"/Users/anbinh/www/school_service/server/shared/index.ejs",
+		"/Users/anbinh/www/school_service/public/app/assets/index.html",
+		"/Users/anbinh/www/school_service/public/app/user/profileController.js",
+		"/Users/anbinh/www/school_service/server/shared/profile.ejs",
+		"/Users/anbinh/www/school_service/server/shared/search.ejs",
+		"/Users/anbinh/www/school_service/server/shared/user.ejs",
+		"/Users/anbinh/www/school_service/server/inc/login.ejs",
+		"/Users/anbinh/www/school_service/server/shared/postproject.ejs",
+		"/Users/anbinh/www/school_service/public/app/assets/js/app.js",
+		"/Users/anbinh/www/school_service/server/include/navigation.ejs",
+		"/Users/anbinh/www/school_service/server/questions/questionsRouter.js",
+		"/Users/anbinh/www/school_service/server/email/emailRouter.js",
+		"/Users/anbinh/www/school_service/server/shared/emails/apply.ejs",
+		"/Users/anbinh/www/school_service/public/app/project/project.html",
+		"/Users/anbinh/www/school_service/public/app/user/profileEdit.html",
+		"/Users/anbinh/www/school_service/public/app/project/projectRouter.js",
+		"/Users/anbinh/www/school_service/test.json",
+		"/Users/anbinh/www/school_service/public/app/project/test/unit/todoControllersSpec.js",
+		"/Users/anbinh/www/school_service/public/app/project/projects.html",
+		"/Users/anbinh/www/school_service/public/app/assets/postproject.html",
+		"/Users/anbinh/www/school_service/public/app/assets/projectdetails.html",
+		"/Users/anbinh/www/school_service/public/app/assets/profileEdit.html",
+		"/Users/anbinh/www/school_service/public/app/assets/profile.html",
+		"/Users/anbinh/www/school_service/public/app/assets/empty.html",
+		"/Users/anbinh/www/school_service/server/rating/ratingSchema.js",
+		"/Users/anbinh/www/school_service/server.js",
+		"/Users/anbinh/www/school_service/server/questions/questionsSchema.js",
+		"/Users/anbinh/www/school_service/server/rating/ratingRouter.js",
+		"/Users/anbinh/www/school_service/public/app/home/homeRouter.js",
+		"/Users/anbinh/www/school_service/public/app/search/searchRouter.js",
+		"/Users/anbinh/www/school_service/public/app/user/userRouter.js",
+		"/Users/anbinh/www/school_service/public/app/user/userListController.js",
+		"/Users/anbinh/www/school_service/public/app/user/profileRouter.js",
+		"/Users/anbinh/www/school_service/public/app/question/questionFactory.js",
+		"/Users/anbinh/www/school_service/public/app/project/project.js",
+		"/Users/anbinh/www/school_service/public/app/home/home.js",
+		"/Users/anbinh/www/school_service/server/shared/emails/invite.ejs",
+		"/Users/anbinh/www/school_service/package.json",
+		"/Users/anbinh/www/school_service/server/email/views/apply.ejs",
+		"/Users/anbinh/www/school_service/public/app/user/userEditController.js",
+		"/Users/anbinh/www/school_service/public/app/user/userFactory.js",
+		"/Users/anbinh/www/auth0-angular-sample/app.js",
+		"/Users/anbinh/Downloads/auth0-angular-sample/index.html",
+		"/Users/anbinh/Downloads/auth0-angular-sample/home/home.js",
+		"/Users/anbinh/www/auth0-angular-sample/server.js",
+		"/Users/anbinh/www/auth0-angular-sample/index.html",
+		"/Users/anbinh/www/auth0-angular-sample/auth0-variables.js",
+		"/Users/anbinh/Downloads/node-auth0-sample/Procfile",
+		"/Users/anbinh/www/school_service/public/app/home/loginController.js",
+		"/Users/anbinh/www/school_service/server/shared/index.ejs1",
+		"/Users/anbinh/www/school_service/public/app/project/todoRouter.js",
+		"/Users/anbinh/www/school_service/public/app/project/todoController.js",
+		"/Users/anbinh/www/school_service/public/app/project/todoDetail.html",
+		"/Users/anbinh/www/AWM/css/home1200.css",
+		"/Users/anbinh/www/AWM/css/home992.css",
+		"/Users/anbinh/www/AWM/css/home768.css",
+		"/Users/anbinh/www/AWM/js/templates/config/list_monthly_dealer_sms.html",
+		"/Users/anbinh/www/AWM/js/templates/config/list_monthly_dealer_sms_wt_options.html",
+		"/Users/anbinh/www/AWM/js/views/config/list.js",
+		"/Users/anbinh/www/AWM/js/views/vehicles/individual_detail.js",
+		"/Users/anbinh/www/AWM/js/views/dealers/list.js",
+		"/Users/anbinh/www/AWM/js/views/vehicles/detail.js",
+		"/Users/anbinh/www/AWM/js/views/vehicles/individual_list.js",
+		"/Users/anbinh/www/AWM/js/views/ui/sidebar.js",
+		"/Users/anbinh/www/AWM/api/v2/index.php",
+		"/Users/anbinh/www/AWM/js/views/vehicles/list.js",
+		"/Users/anbinh/www/AWM/js/views/users/performance.js",
+		"/Users/anbinh/www/AWM/scripts/action_filling.php",
+		"/Users/anbinh/www/AWM/api/v2/mongo/actions/actions.php",
+		"/Users/anbinh/www/AWM/api/v2/mongo/vehicles/vehicles.php",
+		"/Users/anbinh/www/AWM/api/v2/mongo/dealers/dealers.php",
+		"/Users/anbinh/www/AWM/templates/meta_tags.php",
+		"/Users/anbinh/www/AWM/js/templates/messages/message.html",
+		"/Users/anbinh/www/AWM/scripts/monthly_dealer_stats.php",
+		"/Users/anbinh/www/AWM/js/libs/helpers.js",
+		"/Users/anbinh/www/AWM/api/v2/mongo/dealers/api.php",
+		"/Users/anbinh/www/AWM/js/templates/ui/sidebar.html",
+		"/Users/anbinh/www/AWM/js/templates/vehicles/individual_detail.html",
+		"/Users/anbinh/www/AWM/js/templates/vehicles/detail.html",
+		"/Users/anbinh/www/AWM/js/templates/messages/new_bulk_sms.html",
+		"/Users/anbinh/www/AWM/js/views/messages/bulk-sms.js",
+		"/Users/anbinh/www/AWM/scripts/bulk_sms.php",
+		"/Users/anbinh/www/AWM/js/views/users/settings.js",
+		"/Users/anbinh/www/AWM/api/v2/mongo/users/api.php",
+		"/Users/anbinh/www/AWM/api/v2/mongo/users/users.php",
+		"/Users/anbinh/www/AWM/scripts/dealer_stats_monthly_marking.php",
+		"/Users/anbinh/www/AWM/js/templates/config/list_weekly_dealer_sms.html",
+		"/Users/anbinh/www/AWM/scripts/dealer_stats.php",
+		"/Users/anbinh/www/AWM/js/templates/config/employee_stats.html",
+		"/Users/anbinh/www/AWM/js/templates/config/emloyee_stats.html",
+		"/Users/anbinh/www/AWM/js/templates/config/list_batch_sms.html",
+		"/Users/anbinh/www/AWM/api/v2/mongo/bulksms/bulksms.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getYear",
+			"Visitor",
+			"VisitorStats",
+			"post",
+			"role",
+			"Project",
+			"ProjectStats",
+			"'category'",
+			"KeywordStats",
+			"KeywordStatsSchema",
+			"status",
+			"user_id",
+			"by_id",
+			"USER",
+			"user",
+			"newProject",
+			"project",
+			"PROJECT",
+			"project",
+			"PROJECT",
+			"project",
+			"Projects",
+			"350x150",
+			"project",
+			"h3",
+			"h4",
+			"col-xs-12 col-sm-12 ",
+			"auth.profile",
+			"left",
+			"h2",
+			"unstyled",
+			"col-md-4",
+			"col-md-3",
+			"auth",
+			"$scope.",
+			"auth",
+			"isAuthenticated",
+			"auth",
+			"Auth",
+			"auth",
+			"Auth",
+			"auth",
+			"Auth",
+			"auth",
+			"Auth",
+			"auth",
+			"Auth",
+			"auth",
+			"daiviet",
+			"loginModalContent",
+			"ModalInstanceCtrl",
+			"skills",
+			"Effort",
+			".thumbnail",
+			"container-full",
+			"Operations",
+			"Security",
+			"col-sm-3",
+			"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>",
+			"col-sm-4",
+			"col-md-4",
+			"Email",
+			"Projects",
+			"asd",
+			"=",
+			"/",
+			"<div><",
+			"=\"\">",
+			"\"",
+			".user-header, .project-header",
+			"project",
+			"Error!",
+			"Error",
+			"visibility",
+			"Visibility",
+			"visibility",
+			"false",
+			"true",
+			"chargeable",
+			"Chargeable",
+			"chargeable",
+			"category}}",
+			"yyyy-MM-dd",
+			"moement",
+			"new Date",
+			"postedEndDate",
+			"\"DD-MM-YYYY\"",
+			"project",
+			"rateInit",
+			"isOwner",
+			"email",
+			"ProjectSchema",
+			"Question",
+			"questions",
+			"Question",
+			"profile",
+			"business",
+			"$scope.",
+			"invitedUser",
+			"selectedUsers",
+			"apply",
+			"express()",
+			"app",
+			"users",
+			"$scope.project.matchedUsers",
+			"appliedUsers",
+			"matchedUsers",
+			"appliedUsers",
+			"forEac",
+			"Project",
+			"appliedPeople",
+			"invitedUsers",
+			"user",
+			"display",
+			"displayyears",
+			"10px",
+			"src=\"http://placehold.it/140x140\"",
+			" Seeker",
+			"200px",
+			"src=\"http://placehold.it/140x140\"",
+			"projectSeekerSelected",
+			"owner",
+			"> .col-md-4",
+			"0.5",
+			"max-",
+			"circle",
+			"140x140",
+			"width=\"120px\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"Noto Sans",
+			"",
+			"SelectMissingIds",
+			"SelectMissingKeys",
+			"dna.Sprintf",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			" dna.Bool",
+			" dna.String",
+			" dna.Int",
+			"dna.Sprintf",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			" dna.String",
+			" dna.Bool",
+			"dna.Sprintf",
+			" dna.Int",
+			" dna.String",
+			" dna.Bool",
+			" dna.String",
+			" dna.Int",
+			"dna.Sprintf",
+			" dna.Bool",
+			"[]dna.String",
+			" dna.String",
+			" dna.Int",
+			"dna.Sprintf",
+			"[]dna.String",
+			" []dna.String",
+			" dna.Bool",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			"dna.String",
+			"dna.Int",
+			"\\t",
+			"",
+			"API",
+			"\\t",
+			"href",
+			"id",
+			"coverart",
+			"is_gracenote",
+			"artistid",
+			"date_created",
+			"coverart",
+			"date_created",
+			"test",
+			"\\t",
+			"    ",
+			"\\t",
+			"    ",
+			"\\t",
+			"@strToChars",
+			"GMAlbums",
+			"GMLog",
+			"Gomusic",
+			"GMSongs",
+			"GMAlbums",
+			"GMSongs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang":
+	{
+		"height": 176.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/cc":
+	{
+		"height": 158.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/csn":
+	{
+		"height": 158.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/ke":
+	{
+		"height": 170.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/nv":
+	{
+		"height": 158.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 176.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 158.0
+	},
+	"output.GsComplete.completion-hint-output":
+	{
+		"height": 158.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 158.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 176.0
+	},
+	"output.exec":
+	{
+		"height": 262.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "dashboard.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"userrouter",
+				"server/users/usersRouter.js"
+			],
+			[
+				"userro",
+				"public/app/user/userRouter.js"
+			],
+			[
+				"style",
+				"public/app/assets/css/style.css"
+			],
+			[
+				"navigat",
+				"server/inc/navigation.ejs"
+			],
+			[
+				"home.",
+				"public/app/home/home.html"
+			],
+			[
+				"navi",
+				"server/inc/navigation.ejs"
+			],
+			[
+				"styl",
+				"public/app/assets/css/style.css"
+			],
+			[
+				"nav",
+				"server/inc/navigation.ejs"
+			],
+			[
+				"sty",
+				"public/app/assets/css/style.css"
+			],
+			[
+				"home",
+				"public/app/home/home.html"
+			],
+			[
+				"",
+				"js/langs.js"
+			],
+			[
+				"index",
+				"api/index.php"
+			],
+			[
+				"homce",
+				"css/home.css"
+			],
+			[
+				"rt",
+				"css/rtl.css"
+			],
+			[
+				"vehiclenew",
+				"js/views/vehicles/new.js"
+			],
+			[
+				"map.js",
+				"js/views/dealers/map.js"
+			],
+			[
+				"uplo",
+				"uploads/pdf_upload.php"
+			],
+			[
+				"list",
+				"js/views/vehicles/list.js"
+			],
+			[
+				"vehicl",
+				"js/views/dealers/vehicles.js"
+			],
+			[
+				"vehicle",
+				"js/models/vehicle.js"
+			],
+			[
+				"listjs",
+				"js/views/vehicles/list.js"
+			],
+			[
+				"side",
+				"js/views/ui/sidebar.js"
+			],
+			[
+				"indivi",
+				"js/templates/vehicles/individual_detail.html"
+			],
+			[
+				"deta",
+				"js/templates/vehicles/detail.html"
+			],
+			[
+				"helper",
+				"js/libs/helpers.js"
+			],
+			[
+				"indiv",
+				"js/templates/vehicles/individual_detail.html"
+			],
+			[
+				"detail",
+				"js/templates/vehicles/detail.html"
+			],
+			[
+				"sidebar",
+				"js/templates/ui/sidebar.html"
+			],
+			[
+				"lang",
+				"js/langs.js"
+			],
+			[
+				"vehiclapi",
+				"api/mongo/vehicles/api.php"
+			],
+			[
+				"langjs",
+				"js/langs.js"
+			],
+			[
+				"pin",
+				"js/templates/ui/sidebar_pin.html"
+			],
+			[
+				"kevide",
+				"golang/src/dna/ke/video_test.go"
+			],
+			[
+				"kealbu",
+				"golang/src/dna/ke/album_test.go"
+			],
+			[
+				"csnsong",
+				"golang/src/dna/csn/song.go"
+			],
+			[
+				"hdv",
+				"golang/src/dna/hdv/episode_test.go"
+			],
+			[
+				"zia",
+				"golang/src/dna/zi/apifuncs_test.go"
+			],
+			[
+				"zivie",
+				"golang/src/dna/zi/video_test.go"
+			],
+			[
+				"tmp/am",
+				"tmp/am.go"
+			],
+			[
+				"sql",
+				"golang/log/sql_error.log"
+			],
+			[
+				"am/",
+				"golang/src/dna/am/apialbum_test.go"
+			],
+			[
+				"amdoc",
+				"golang/src/dna/am/doc.go"
+			],
+			[
+				"site",
+				"golang/src/dna/site/site.go"
+			],
+			[
+				"nsong",
+				"golang/src/dna/ns/song.go"
+			],
+			[
+				"nssong",
+				"golang/src/dna/ns/song.go"
+			],
+			[
+				"india",
+				"tmp/indiabix.go"
+			],
+			[
+				"siteini",
+				"golang/config/sites.ini"
+			],
+			[
+				"sqlpgtest",
+				"golang/src/dna/sqlpg/funcs_test.go"
+			],
+			[
+				"sqlpg",
+				"golang/src/dna/sqlpg/funcs.go"
+			],
+			[
+				"sqlpgfun",
+				"golang/src/dna/sqlpg/funcs.go"
+			],
+			[
+				"cosntant",
+				"golang/src/dna/media/constants.go"
+			],
+			[
+				"utils",
+				"golang/src/dna/utils/func.go"
+			],
+			[
+				"tmpzi",
+				"tmp/zi.go"
+			],
+			[
+				"updatecha",
+				"golang/src/dna/site/update_chacha.go"
+			],
+			[
+				"zit",
+				"golang/src/dna/zi/tv.go"
+			],
+			[
+				"sqler",
+				"golang/log/sql_error.log"
+			],
+			[
+				"am/api",
+				"golang/src/dna/am/apialbum_test.go"
+			],
+			[
+				"nctalbum",
+				"golang/src/dna/nct/album_test.go"
+			],
+			[
+				"zialbum",
+				"golang/src/dna/zi/album_test.go"
+			],
+			[
+				"zisongte",
+				"golang/src/dna/zi/song_test.go"
+			],
+			[
+				"zisong",
+				"golang/src/dna/zi/song.go"
+			],
+			[
+				"ziapi",
+				"golang/src/dna/zi/api.go"
+			],
+			[
+				"ziget",
+				"golang/src/dna/zi/song_test.go"
+			],
+			[
+				"tmp/zi",
+				"tmp/zi.go"
+			],
+			[
+				"ziapif",
+				"golang/src/dna/zi/apifuncs.go"
+			],
+			[
+				"zitest",
+				"golang/src/dna/zi/apifuncs_test.go"
+			],
+			[
+				"hdvep",
+				"golang/src/dna/hdv/episode_test.go"
+			],
+			[
+				"hdv_test",
+				"golang/src/dna/hdv/movie_test.go"
+			],
+			[
+				"kevideo",
+				"golang/src/dna/ke/video_test.go"
+			],
+			[
+				"kesong",
+				"golang/src/dna/ke/song_test.go"
+			],
+			[
+				"kep",
+				"golang/src/dna/ke/post_test.go"
+			],
+			[
+				"ke/album",
+				"golang/src/dna/ke/album_test.go"
+			],
+			[
+				"doc.go",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"tables.co",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"test",
+				"golang/test.go"
+			],
+			[
+				"tabledoc",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"mediaconst",
+				"golang/src/dna/media/constants.go"
+			],
+			[
+				"topic",
+				"golang/topics.js"
+			],
+			[
+				"ke/lyric",
+				"golang/src/dna/ke/lyric_test.go"
+			],
+			[
+				"dna/ke/lyr",
+				"golang/src/dna/ke/lyric.go"
+			],
+			[
+				"meidadoc",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"main.go",
+				"golang/main.go"
+			],
+			[
+				"csntest",
+				"golang/src/dna/csn/video_test.go"
+			],
+			[
+				"tmp",
+				"tmp/hdviet.go"
+			],
+			[
+				"dna/string",
+				"golang/src/dna/string.go"
+			],
+			[
+				"tmpcsn",
+				"tmp/csn.go"
+			],
+			[
+				"link",
+				"golang/src/dna/csn/link_formats.go"
+			],
+			[
+				"tables",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"main.g",
+				"golang/main.go"
+			],
+			[
+				"ketest",
+				"golang/src/dna/ke/post_test.go"
+			],
+			[
+				"tables/",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"upsert",
+				"golang/scripts/upsert_hashids.sh"
+			],
+			[
+				"slq",
+				"golang/log/sql_error.log"
+			],
+			[
+				"main",
+				"golang/main.go"
+			],
+			[
+				"csnvideo",
+				"golang/src/dna/csn/video_test.go"
+			],
+			[
+				"hdviet",
+				"golang/src/dna/hdv/episode_test.go"
+			],
+			[
+				"kealbumtest",
+				"golang/src/dna/ke/album_test.go"
+			],
+			[
+				"ketet",
+				"golang/src/dna/ke/post_test.go"
+			],
+			[
+				"ziusers",
+				"golang/src/dna/zi/user_test.go"
+			],
+			[
+				"mediadoc",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"mediadc",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"mediavar",
+				"golang/src/dna/media/variables.go"
+			],
+			[
+				"scripts/bk",
+				"golang/scripts/bk/artists.sh"
+			],
+			[
+				"mediaref",
+				"golang/src/dna/media/ref.go"
+			],
+			[
+				"media",
+				"golang/src/dna/media/constants.go"
+			],
+			[
+				"mediasour",
+				"golang/src/dna/media/source.go"
+			],
+			[
+				"keapi",
+				"golang/src/dna/ke/api.go"
+			],
+			[
+				"kearti",
+				"golang/src/dna/ke/artist.go"
+			],
+			[
+				"tmpmedi",
+				"tmp/media.go"
+			],
+			[
+				"mem",
+				"golang/memory.sh"
+			],
+			[
+				"kevideotes",
+				"golang/src/dna/ke/video_test.go"
+			],
+			[
+				"kesongte",
+				"golang/src/dna/ke/song_test.go"
+			],
+			[
+				"ziusertes",
+				"golang/src/dna/zi/user_test.go"
+			],
+			[
+				"lwdoc",
+				"golang/src/dna/lw/doc.go"
+			],
+			[
+				"lfdoc",
+				"golang/src/dna/lf/doc.go"
+			],
+			[
+				"ziusertest",
+				"golang/src/dna/zi/user_test.go"
+			],
+			[
+				"ziapifun",
+				"golang/src/dna/zi/apifuncs.go"
+			],
+			[
+				"zisongtest",
+				"golang/src/dna/zi/song_test.go"
+			],
+			[
+				"ziuser",
+				"golang/src/dna/zi/user.go"
+			],
+			[
+				"lyric",
+				"golang/lyricfinds.sh"
+			],
+			[
+				"sfapi",
+				"golang/src/dna/sf/apitrack_test.go"
+			],
+			[
+				"siteva",
+				"golang/src/dna/site/vars.go"
+			],
+			[
+				"site.go",
+				"golang/src/dna/site/site.go"
+			],
+			[
+				"update",
+				"golang/src/dna/site/update_keeng.go"
+			],
+			[
+				"sitein",
+				"golang/config/sites.ini"
+			],
+			[
+				"htt",
+				"golang/log/http_error.log"
+			],
+			[
+				"ht",
+				"golang/log/http_error.log"
+			],
+			[
+				"lfvar",
+				"golang/src/dna/lf/variables.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 867.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

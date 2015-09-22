@@ -1,0 +1,61 @@
+<section class="panel panel-primary">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="panel-action panel-action-toggle" data-panel-toggle=""></a>
+            <a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss=""></a>
+        </div>
+        <h2 class="panel-title">{{title}}</h2>
+        <p class="panel-subtitle">{{subtitle}}</p>
+    </header>
+    <div class="panel-body">
+        
+
+        <div>
+            <!-- Nav tabs -->
+            <tabset>
+                <tab>
+                    <tab-heading>
+                        <i class="fa fa-bar-chart"></i>
+                    </tab-heading>
+                    <div class="chart chart-sm" id="plotContentPieces" class="chart-active"></div>
+                </tab>
+                <tab>
+                    <tab-heading>
+                        <i class="fa fa-table"></i>
+                    </tab-heading>
+                    <div ng-show="contentPieces.stats.length == 0" class="row center" ng-show="keywords.length == 0">
+                        <br/>
+                        <br/>
+                        <section class="panel">
+                            <div class="panel-body">
+                                {{errorinfo}}
+                            </div>
+                        </section>
+                    </div>
+                    <table ng-show="contentPieces.stats.length > 0" class="table table-hover  table-bordered table-striped mb-none" id="datatable-default12">
+                        <thead>
+                            <tr>
+                                <th>Week</th>
+                                <th>Invitation</th>
+                                <th>Acceptance</th>
+                                <th>Completion</th>
+                                <th>Comments</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="stat in contentPieces.stats track by $index">
+                                <td>Week {{stat._id.week}}  of {{stat._id.year}} </td>
+                                <td>{{stat.invitation}} </td>
+                                <td>{{stat.acceptance}} </td>
+                                <td>{{stat.completion}} </td>
+                                <td>{{stat.comments}} </td>
+                                <td>{{stat.total}} </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </tab>
+            </tabset>
+        </div>
+    </div>
+</section>

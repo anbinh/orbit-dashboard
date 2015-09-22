@@ -1,0 +1,46 @@
+<!doctype html>
+<html class="fixed" ng-app="app">
+    <head>
+
+        <% include ../inc/admin/head %>
+
+        <script src="/vendor/modernizr/modernizr.js"></script>
+
+
+    </head>
+    <body>
+        <section class="body">
+
+            <!-- start: header -->
+            <% include ../inc/admin/header %>
+            <!-- end: header -->
+
+            <div class="inner-wrapper">
+                <!-- start: sidebar -->
+                <% include ../inc/admin/sidebar %>
+                <!-- end: sidebar -->
+
+                <ng-view></ng-view>
+            </div>
+
+            
+        </section>
+
+
+       
+
+        <!-- Vendor -->
+        <script src="/dist/admin.dep.min.js"></script>
+
+         <script src="/vendor/jqvmap/maps/jquery.vmap.world.js"></script>
+        <script src="/vendor/jqvmap/data/jquery.vmap.sampledata.js"></script>
+        
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+
+        <!--<![endif]-->
+        <script src="/dist/app.templates.min.js"></script>
+        <script src="/dist/app.min.js"></script>
+        <script src="/app/routers/admin.js"></script>
+    </body>
+</html>

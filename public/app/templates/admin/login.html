@@ -1,0 +1,56 @@
+<section class="body-sign">
+         <div class="center-sign">
+            <a href="/" class="logo pull-left">
+               <img src="/img/logos/slogo.png" height="54" alt="Porto Admin">
+            </a>
+
+            <div class="panel panel-sign">
+               <div class="panel-title-sign mt-xl text-right">
+                  <h2 class="title text-uppercase text-weight-bold m-none"><i class="fa fa-user mr-xs"></i> Sign In</h2>
+               </div>
+               <div class="panel-body">
+                  <form method="post" ng-submit="login()">
+                     <div class="form-group mb-lg">
+                        <label>Admin</label>
+                        <div class="input-group input-group-icon">
+                           <input name="username" ng-model="user.username" type="text" class="form-control input-lg">
+                           <span class="input-group-addon">
+                              <span class="icon icon-lg">
+                                 <i class="fa fa-user"></i>
+                              </span>
+                           </span>
+                        </div>
+                     </div>
+
+                     <div class="form-group mb-lg">
+                        <div class="clearfix">
+                           <label class="pull-left">Password</label>
+                           
+                        </div>
+                        <div class="input-group input-group-icon">
+                           <input name="pwd" type="password" ng-model="user.password" class="form-control input-lg">
+                           <span class="input-group-addon">
+                              <span class="icon icon-lg">
+                                 <i class="fa fa-lock"></i>
+                              </span>
+                           </span>
+                        </div>
+                     </div>
+
+                     <div class="row">
+                        <div class="col-sm-8">
+                                                   </div>
+                        <div class="col-sm-4 text-right">
+                           <button type="submit" class="btn btn-primary hidden-xs">Sign In</button>
+                           <button type="submit" class="btn btn-primary btn-block btn-lg visible-xs mt-lg">Sign In</button>
+                        </div>
+                     </div>
+
+
+                  </p></form>
+               </div>
+            </div>
+
+            <p class="text-center text-muted mt-md mb-md">© Copyright 2015. All Rights Reserved.</p>
+         </div>
+      </section>

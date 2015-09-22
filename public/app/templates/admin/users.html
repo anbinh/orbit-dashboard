@@ -1,0 +1,79 @@
+<section role="main" class="content-body">
+   <header class="page-header">
+      <h2>All Available Users</h2>
+   
+      <div class="right-wrapper pull-right">
+         <ol class="breadcrumbs">
+            <li>
+               <a href="index.html">
+                  <i class="fa fa-home"></i>
+               </a>
+            </li>
+            <li><span>Users</span></li>
+            <li><span>All Users</span></li>
+         </ol>
+   
+         <a class="sidebar-right-toggle" data-open="sidebar-right"><i class="fa fa-chevron-left"></i></a>
+      </div>
+   </header>
+
+   <!-- start: page -->
+      <section class="panel">
+         <header class="panel-heading">
+            
+      
+            <h2 class="panel-title">Users Information</h2>
+         </header>
+         <div class="panel-body">
+            <table class="table table-hover  table-bordered table-striped mb-none" id="datatable-default" style="cursor : pointer">
+               <thead>
+                  <tr> 
+                     
+                     <th>Avatar</th>
+                     <th>Name</th>
+                     <th>Role</th>
+                     <th>Department</th>
+                     <th>Country</th>
+                     <th>Email</th>
+                     <th>Skills</th>
+                     <th>Interests</th>
+                     <th>Created date</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr ng-repeat="user in users track by $index" ng-click="goToUserDetail(user._id)">
+                     
+                     <td><img height="50px" ng-src="{{user.picture}}"></td>
+
+                     <td>{{user.name}} </td>
+                     <td>{{user.job_role}} </td>
+                     <td>{{user.dept}}</td>
+                     <td>{{user.country}}</td>
+                     <td>{{user.email}}</td>
+                     <td>
+                         <span  ng-repeat="skill in user.skills">
+                            <span class="label label-primary">
+                                {{skill}}
+                            </span>&nbsp;
+                         </span>
+                     </td>
+                     <td>
+                        <span  ng-repeat="interest in user.interests">
+                            <span class="label label-success">
+                                {{interest}}
+                            </span>&nbsp;
+                         </span>
+                     </td>
+                     <td>{{user.date_created | date:'yyyy/MM/dd hh:mm:ss'}}</td>
+
+                  </tr>
+                  
+                  
+               </tbody>
+            </table>
+         </div>
+      </section>
+      
+      
+   <!-- end: page -->
+</section>

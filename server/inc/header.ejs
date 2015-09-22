@@ -1,0 +1,17 @@
+
+<script type="text/ng-template" id="searchBarTemplate.html">
+    <a style="height : 40px;line-height:30px">
+        <img ng-src="/img/cards/{{match.model.originalName}}.jpg" width="42">
+        <span bind-html-unsafe="match.label | typeaheadHighlight:query"></span>
+    </a>
+</script>
+<header id="header" class="flat-menu clean-top gift-cards" ng-controller="HeaderController">
+    
+    <div class="container">
+        
+        <button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
+            <i class="fa fa-bars"></i>
+        </button>
+    </div>
+    
+</header>

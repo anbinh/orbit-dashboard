@@ -1,0 +1,76 @@
+<aside id="sidebar-left" class="sidebar-left" ng-controller="AdminSideBarController">
+   <div class="sidebar-header">
+      <div class="sidebar-title">
+         Navigation
+      </div>
+      <div class="sidebar-toggle hidden-xs" data-toggle-class="sidebar-left-collapsed" data-target="html" data-fire-event="sidebar-left-toggle">
+         <i class="fa fa-bars" aria-label="Toggle sidebar"></i>
+      </div>
+   </div>
+   <div class="nano">
+      <div class="nano-content">
+         <nav id="menu" class="nav-main" role="navigation">
+            <ul class="nav nav-main">
+               <li class="{{currentActiveParent == 'dashboard' ? 'nav-active' : '' }} ">
+                  <a href="/#/">
+                  <i class="fa fa-home" aria-hidden="true"></i>
+                  <span>Dashboard</span>
+                  </a>
+               </li>
+
+               <li class="{{currentActiveParent == 'users' ? 'nav-active' : '' }} ">
+                  <a href="/#/users" >
+                  <i class="fa fa-users" aria-hidden="true"></i>
+                  <span>Users</span>
+                  </a>
+               </li>
+
+               <li class="nav-parent {{currentActiveParent == 'countries' ? 'nav-expanded nav-active' : '' }}">
+                  <a>
+                  <i class="fa fa-globe" aria-hidden="true"></i>
+                  <span>Countries</span>
+                  </a>
+                  <ul class="nav nav-children">
+                     <li class="{{currentActiveChild == country.name.toUpperCase() ? 'nav-active' : '' }}" ng-repeat="country in countryList">
+                        <a href="/#/countries/{{country.name}}"><img height="15px" ng-src="/images/countries/{{country.code}}.png">
+                        {{country.name }}
+                        </a>
+                     </li>
+
+                  </ul>
+               </li>
+              
+               
+            </ul>
+         </nav>
+        
+
+         
+
+         <hr class="separator" />
+         <div class="sidebar-widget widget-tasks">
+            <div class="widget-header">
+               <h6>Orbit Stats</h6>
+               <div class="widget-toggle">+</div>
+            </div>
+            <div class="widget-content">
+               <ul class="list-unstyled m-none">
+                  <li >
+                     <a href="/#/" >Total Projects: 12</a>
+                  </li>
+                  <li >
+                     <a href="/#/" >Total Users: 45</a>
+                  </li>
+                  <li >
+                     <a href="/#/" >Total Active Projects: 6</a>
+                  </li>
+                  <li >
+                     <a href="/#/" >Total Completed Project: 5</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         
+      </div>
+   </div>
+</aside>

@@ -1,0 +1,47 @@
+<header class="header" ng-controller="AdminHeadController">
+   <div class="logo-container">
+      <a href="/dashboard/#/" class="logo">
+      <img src="/img/logos/logo.png" height="35" alt="Porto Admin" />
+      PROJECT ORBIT
+      </a>
+      <div class="visible-xs toggle-sidebar-left" data-toggle-class="sidebar-left-opened" data-target="html" data-fire-event="sidebar-left-opened">
+         <i class="fa fa-bars" aria-label="Toggle sidebar"></i>
+      </div>
+   </div>
+   <!-- start: search & user box -->
+   <div class="header-right">
+      <!-- <form class="search nav-form">
+         <div class="input-group input-search">
+            <input type="text" class="form-control" name="q" id="q" placeholder="Search...">
+            <span class="input-group-btn">
+            <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+            </span>
+         </div>
+      </form> -->
+      <span class="separator"></span>
+      
+      <span class="separator"></span>
+      <div id="userbox" class="userbox">
+         <a style="cursor : pointer" data-toggle="dropdown">
+            <figure class="profile-picture">
+               <img src="/img/logos/logo.png" alt="Joseph Doe" class="img-circle" data-lock-picture="/images/!logged-user.jpg" />
+            </figure>
+            <div class="profile-info" data-lock-name="John Doe" data-lock-email="johndoe@okler.com">
+               <span class="name">Orbit Admin</span>
+               <span class="role">admin</span>
+            </div>
+            <i class="fa custom-caret"></i>
+         </a>
+         <div class="dropdown-menu">
+            <ul class="list-unstyled">
+               <li class="divider"></li>
+               
+               <li>
+                  <a role="menuitem" tabindex="-1" style="cursor:pointer" ng-click="logout()"><i class="fa fa-power-off"></i> Logout</a>
+               </li>
+            </ul>
+         </div>
+      </div>
+   </div>
+   <!-- end: search & user box -->
+</header>

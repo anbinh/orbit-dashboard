@@ -1,0 +1,42 @@
+<section class="panel panel-primary">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="panel-action panel-action-toggle" data-panel-toggle=""></a>
+            <a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss=""></a>
+        </div>
+        <h2 class="panel-title">{{title}}</h2>
+        <p class="panel-subtitle">{{subtitle}}</p>
+    </header>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <section class="panel  panel-featured-primary">
+                    <div class="panel-body" style="min-height : 200px !important">
+                        <div class="widget-summary">
+                            <div class="widget-summary-col widget-summary-col-icon">
+                                <div class="summary-icon bg-primary">
+                                    <i class="fa fa-life-ring"></i>
+                                </div>
+                            </div>
+                            <div class="widget-summary-col">
+                                <div class="pull-right">
+                                    <form name="myForm">
+                                        <select class="form-control" name="repeatSelect" id="repeatSelect" ng-model="options.selectedFilter" ng-options="option.name for option in options.filters track by option.days" ng-change="filter(options.selectedFilter.days)">
+                                        </select>
+                                    </form>
+                                </div>
+                                <div class="summary">
+                                    <h4 class="title">Projects</h4>
+                                    <div class="info">
+                                        <strong class="amount">{{completedProjects}}</strong>
+                                    </div>
+                                </div>
+                                <div class="summary-footer">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+</section>

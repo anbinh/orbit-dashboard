@@ -1,0 +1,29 @@
+/* Add here all your CSS customizations */
+.user-icon-detail {
+	padding: 5px;
+	border-radius: 50%;
+}
+
+li.user-li {
+	padding-bottom: 5px;
+}
+
+.jqvmap-zoomin,
+.jqvmap-zoomout {
+	background: #0088cc;
+	    border-radius: 2px;
+    color: #FFF;
+    height: 20px;
+    line-height: 20px;
+    padding: 0;
+    width: 20px;
+    text-align: center;
+}
+
+.jqvmap-zoomout {
+	top: 40px
+}
+
+.panel-body {
+	min-height: 250px !important;
+}
