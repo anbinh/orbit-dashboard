@@ -28,7 +28,7 @@ module.exports = function(m) {
                 if (store.get('admin')) {
                     return true;
                 } else {
-                    window.location = '/admin-login/#/';
+                    window.location = './admin-login/#/';
                     return false;
                 }
             };
