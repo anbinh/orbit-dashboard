@@ -227,9 +227,9 @@ router.get('/page-views/:name/:option', function(req, res, next) {
             }
         }, {
             $sort: {
-                "_id.year": 1,
-                "_id.month": 1,
-                "_id.date": 1
+                "_id.year": -1,
+                "_id.month": -1,
+                "_id.date": -1
             }
         }, {
             $limit: LIMIT

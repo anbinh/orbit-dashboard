@@ -43,6 +43,7 @@ module.exports = function(m) {
             }
             $scope.$apply();
             console.log(message, $scope.selectedCountry, 'yyy');
+            $('.worldmap[data-panel-toggle]').click();
         };
 
         $scope.currentLayout = 6;
