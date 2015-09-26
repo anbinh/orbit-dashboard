@@ -10,7 +10,8 @@ li.user-li {
 
 .jqvmap-zoomin,
 .jqvmap-zoomout {
-	background: #0088cc;
+	/*background: #0088cc;*/
+	background: #D2322E;
 	    border-radius: 2px;
     color: #FFF;
     height: 20px;

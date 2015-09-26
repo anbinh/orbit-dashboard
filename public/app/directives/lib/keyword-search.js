@@ -52,9 +52,10 @@ module.exports = function(m) {
                     series: {
                         bars: {
                             show: true,
-                            lineWidth: 2,
+                            lineWidth: 0,
                             align: 'center',
-                            barWidth: 0.9
+                            barWidth: 0.9,
+                            fillColor: '#ed9c28'
                         },
                         shadowSize: 0
                     },

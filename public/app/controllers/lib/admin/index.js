@@ -141,7 +141,7 @@ module.exports = function(m) {
                     borderWidth: 1,
                     showTooltip: true,
                     values: transformCountries(),
-                    scaleColors: ['#1AA2E6', '#0088CC'],
+                    scaleColors: ['#D2322D', '#D2322E'],
                     normalizeFunction: 'polynomial',
                     onRegionClick: function(element, code, region) {
                         $scope.regionClick(element, code, region);

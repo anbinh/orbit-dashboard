@@ -4,12 +4,108 @@
 		"selected_items":
 		[
 			[
-				"las",
-				"lastDate"
+				"res",
+				"results"
+			],
+			[
+				"com",
+				"completion"
 			],
 			[
 				"page",
-				"pageStat"
+				"PageStats"
+			],
+			[
+				"key",
+				"keyName"
+			],
+			[
+				"ke",
+				"keywordStat"
+			],
+			[
+				"countr",
+				"countryName"
+			],
+			[
+				"country",
+				"country"
+			],
+			[
+				"Coun",
+				"COUNTRY_MAP"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"plo",
+				"plotGraph"
+			],
+			[
+				"plot",
+				"plotGraph"
+			],
+			[
+				"pl",
+				"plotSP"
+			],
+			[
+				"trans",
+				"transformToPlotData"
+			],
+			[
+				"sear",
+				"searchedProjectsPerCategory"
+			],
+			[
+				"too",
+				"tooltipOpts"
+			],
+			[
+				"plt",
+				"plotOptions"
+			],
+			[
+				"sele",
+				"selectedFilter"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"user",
+				"userService"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"cre",
+				"criteria"
+			],
+			[
+				"creat",
+				"createdAtCriteria"
+			],
+			[
+				"las",
+				"lastDate"
 			],
 			[
 				"crea",
@@ -54,10 +150,6 @@
 			[
 				"CONS",
 				"console"
-			],
-			[
-				"res",
-				"result"
 			],
 			[
 				"tex",
@@ -192,10 +284,6 @@
 				"appliedUsers"
 			],
 			[
-				"sele",
-				"selectedUsers"
-			],
-			[
 				"mat",
 				"matchedUsers"
 			],
@@ -234,10 +322,6 @@
 			[
 				"Pro",
 				"Projects"
-			],
-			[
-				"user",
-				"user_id"
 			],
 			[
 				"con",
@@ -430,95 +514,171 @@
 			[
 				"st",
 				"stringify"
-			],
-			[
-				"last",
-				"last_message"
-			],
-			[
-				"USER",
-				"USER_AVATAR"
-			],
-			[
-				"employe",
-				"employees"
-			],
-			[
-				"messag",
-				"messages"
-			],
-			[
-				"par",
-				"party_b_role"
-			],
-			[
-				"party",
-				"party_b"
-			],
-			[
-				"paryt",
-				"party_b"
-			],
-			[
-				"part",
-				"party_b_role"
-			],
-			[
-				"usern",
-				"username"
-			],
-			[
-				"sene",
-				"sender_name"
-			],
-			[
-				"sender",
-				"sender"
-			],
-			[
-				"party_b",
-				"party_b_role"
-			],
-			[
-				"data-par",
-				"data-party-a-role"
-			],
-			[
-				"emplid",
-				"employeeIds"
-			],
-			[
-				"conver",
-				"conversationId"
-			],
-			[
-				"cone",
-				"conversation"
-			],
-			[
-				"receiv",
-				"received"
-			],
-			[
-				"src",
-				"src_user"
-			],
-			[
-				"do",
-				"document"
-			],
-			[
-				"resul",
-				"results"
-			],
-			[
-				"deal",
-				"dealer"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "public/app/directives/lib/searched-project-per-category.js",
+			"settings":
+			{
+				"buffer_size": 6749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/api/analytics/analyticsRouter.js",
+			"settings":
+			{
+				"buffer_size": 22146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/api/users/usersRouter.js",
+			"settings":
+			{
+				"buffer_size": 1153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/inc/error.ejs",
+			"settings":
+			{
+				"buffer_size": 1184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/shared/dashboard.ejs",
+			"settings":
+			{
+				"buffer_size": 1150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/services/lib/auth.js",
+			"settings":
+			{
+				"buffer_size": 7806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/shared/admin_login.ejs",
+			"settings":
+			{
+				"buffer_size": 521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/login.html",
+			"settings":
+			{
+				"buffer_size": 2431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/inc/admin/header.ejs",
+			"settings":
+			{
+				"buffer_size": 1803,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/inc/head.ejs",
+			"settings":
+			{
+				"buffer_size": 1238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/inc/admin/head.ejs",
+			"settings":
+			{
+				"buffer_size": 698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/index.html",
+			"settings":
+			{
+				"buffer_size": 3853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/directives/searched-projects-per-category.html",
+			"settings":
+			{
+				"buffer_size": 2863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/directives/visitors-role-by-country.html",
+			"settings":
+			{
+				"buffer_size": 2536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/directives/completed-projects.html",
+			"settings":
+			{
+				"buffer_size": 2200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/directives/page-views.html",
+			"settings":
+			{
+				"buffer_size": 2625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/country-detail.html",
+			"settings":
+			{
+				"buffer_size": 2949,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/directives/lib/content-pieces.js",
+			"settings":
+			{
+				"buffer_size": 4177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/templates/admin/directives/content-pieces.html",
+			"settings":
+			{
+				"buffer_size": 2633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/controllers/lib/admin/index.js",
+			"settings":
+			{
+				"buffer_size": 5928,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,10 +687,46 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 333.0,
-		"last_filter": "syntahtml",
+		"height": 354.0,
+		"last_filter": "synht",
 		"selected_items":
 		[
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntaxhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"H",
+				"HTMLPrettify"
+			],
+			[
+				"HT",
+				"HTMLPrettify"
+			],
+			[
+				"HTML",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"syntaht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntaxhtml",
+				"Set Syntax: HTML"
+			],
 			[
 				"syntahtml",
 				"Set Syntax: HTML"
@@ -1006,42 +1202,6 @@
 			[
 				"jqu",
 				"Snippet: A basic jQuery selector"
-			],
-			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
-				"snipet le",
-				"Snippet: Get Elements"
-			],
-			[
-				"snippet",
-				"Snippet: html"
-			],
-			[
-				"snippet ",
-				"Snippet: POST['…']"
-			],
-			[
-				"syncofe",
-				"Set Syntax: CoffeeScript"
-			],
-			[
-				"packa c is",
-				"Package Control: Install Package"
-			],
-			[
-				"syntap",
-				"Set Syntax: PHP"
-			],
-			[
-				"syntax javas",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"syntaxphp",
-				"Set Syntax: PHP"
 			]
 		],
 		"width": 575.0
@@ -1065,10 +1225,82 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/anbinh/www/orbit_dashboard"
+		"/Users/anbinh/www/orbit_dashboard",
+		"/Users/anbinh/www/orbit_dashboard/public",
+		"/Users/anbinh/www/orbit_dashboard/public/app",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib",
+		"/Users/anbinh/www/orbit_dashboard/public/app/filters",
+		"/Users/anbinh/www/orbit_dashboard/public/app/filters/lib",
+		"/Users/anbinh/www/orbit_dashboard/public/app/routers",
+		"/Users/anbinh/www/orbit_dashboard/public/app/services",
+		"/Users/anbinh/www/orbit_dashboard/public/app/services/lib",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/directives",
+		"/Users/anbinh/www/orbit_dashboard/server",
+		"/Users/anbinh/www/orbit_dashboard/server/api",
+		"/Users/anbinh/www/orbit_dashboard/server/api/analytics",
+		"/Users/anbinh/www/orbit_dashboard/server/api/email",
+		"/Users/anbinh/www/orbit_dashboard/server/api/index",
+		"/Users/anbinh/www/orbit_dashboard/server/api/users",
+		"/Users/anbinh/www/orbit_dashboard/server/inc",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/admin",
+		"/Users/anbinh/www/orbit_dashboard/server/shared"
 	],
 	"file_history":
 	[
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/directives/searched-projects-per-category.html",
+		"/Users/anbinh/www/orbit_dashboard/server/api/analytics/VisitorStatsSchema.js",
+		"/Users/anbinh/www/orbit_dashboard/server/api/analytics/ProjectStatsSchema.js",
+		"/Users/anbinh/www/orbit_dashboard/server/api/analytics/PageStatsSchema.js",
+		"/Users/anbinh/www/orbit_dashboard/server/api/analytics/KeywordStatsSchema.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/directives/completed-projects.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib/completed-projects.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/services/lib/analytics.js",
+		"/Users/anbinh/www/orbit_dashboard/gulpfile.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib/visitors-role-by-country.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/directives/visitors-role-by-country.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/directives/users-country-visit.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/directives/page-views.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/directives/keyword-search.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib/keyword-search.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/users.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin/index.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/services/lib/auth.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin/sidebar.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin/country-detail.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/country-detail.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/routers/admin.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/index.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib/users-country-visit.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib/searched-project-per-category.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib/page-views.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin/user-detail.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/user-detail.html",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/admin/sidebar.ejs",
+		"/Users/anbinh/www/orbit_dashboard/server/api/analytics/analyticsRouter.js",
+		"/Users/anbinh/www/orbit_dashboard/server/api/users/usersRouter.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/services/lib/user.js",
+		"/Users/anbinh/www/orbit_dashboard/server/shared/dashboard.ejs",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/keyword-search.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/users-country-visit.html",
+		"/Users/anbinh/www/orbit_dashboard/public/app/directives/lib/route-loader.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin/head.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin/users.js",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/error.ejs",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/footer.ejs",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/header.ejs",
+		"/Users/anbinh/www/orbit_dashboard/public/app/templates/admin/login.html",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/admin/header.ejs",
+		"/Users/anbinh/www/orbit_dashboard/server/api/email/emailRouter.js",
+		"/Users/anbinh/www/orbit_dashboard/public/app/controllers/lib/admin/login.js",
+		"/Users/anbinh/www/orbit_dashboard/server.js",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/head.ejs",
+		"/Users/anbinh/www/orbit_dashboard/server/inc/scripts.ejs",
 		"/Users/anbinh/www/school_service/public/app/search/list.html",
 		"/Users/anbinh/www/school_service/server/analytics/KeywordStatsSchema.js",
 		"/Users/anbinh/www/school_service/server/analytics/analyticsSchema.js",
@@ -1148,59 +1380,11 @@
 		"/Users/anbinh/www/school_service/public/app/user/userFactory.js",
 		"/Users/anbinh/www/auth0-angular-sample/app.js",
 		"/Users/anbinh/Downloads/auth0-angular-sample/index.html",
-		"/Users/anbinh/Downloads/auth0-angular-sample/home/home.js",
-		"/Users/anbinh/www/auth0-angular-sample/server.js",
-		"/Users/anbinh/www/auth0-angular-sample/index.html",
-		"/Users/anbinh/www/auth0-angular-sample/auth0-variables.js",
-		"/Users/anbinh/Downloads/node-auth0-sample/Procfile",
-		"/Users/anbinh/www/school_service/public/app/home/loginController.js",
-		"/Users/anbinh/www/school_service/server/shared/index.ejs1",
-		"/Users/anbinh/www/school_service/public/app/project/todoRouter.js",
-		"/Users/anbinh/www/school_service/public/app/project/todoController.js",
-		"/Users/anbinh/www/school_service/public/app/project/todoDetail.html",
-		"/Users/anbinh/www/AWM/css/home1200.css",
-		"/Users/anbinh/www/AWM/css/home992.css",
-		"/Users/anbinh/www/AWM/css/home768.css",
-		"/Users/anbinh/www/AWM/js/templates/config/list_monthly_dealer_sms.html",
-		"/Users/anbinh/www/AWM/js/templates/config/list_monthly_dealer_sms_wt_options.html",
-		"/Users/anbinh/www/AWM/js/views/config/list.js",
-		"/Users/anbinh/www/AWM/js/views/vehicles/individual_detail.js",
-		"/Users/anbinh/www/AWM/js/views/dealers/list.js",
-		"/Users/anbinh/www/AWM/js/views/vehicles/detail.js",
-		"/Users/anbinh/www/AWM/js/views/vehicles/individual_list.js",
-		"/Users/anbinh/www/AWM/js/views/ui/sidebar.js",
-		"/Users/anbinh/www/AWM/api/v2/index.php",
-		"/Users/anbinh/www/AWM/js/views/vehicles/list.js",
-		"/Users/anbinh/www/AWM/js/views/users/performance.js",
-		"/Users/anbinh/www/AWM/scripts/action_filling.php",
-		"/Users/anbinh/www/AWM/api/v2/mongo/actions/actions.php",
-		"/Users/anbinh/www/AWM/api/v2/mongo/vehicles/vehicles.php",
-		"/Users/anbinh/www/AWM/api/v2/mongo/dealers/dealers.php",
-		"/Users/anbinh/www/AWM/templates/meta_tags.php",
-		"/Users/anbinh/www/AWM/js/templates/messages/message.html",
-		"/Users/anbinh/www/AWM/scripts/monthly_dealer_stats.php",
-		"/Users/anbinh/www/AWM/js/libs/helpers.js",
-		"/Users/anbinh/www/AWM/api/v2/mongo/dealers/api.php",
-		"/Users/anbinh/www/AWM/js/templates/ui/sidebar.html",
-		"/Users/anbinh/www/AWM/js/templates/vehicles/individual_detail.html",
-		"/Users/anbinh/www/AWM/js/templates/vehicles/detail.html",
-		"/Users/anbinh/www/AWM/js/templates/messages/new_bulk_sms.html",
-		"/Users/anbinh/www/AWM/js/views/messages/bulk-sms.js",
-		"/Users/anbinh/www/AWM/scripts/bulk_sms.php",
-		"/Users/anbinh/www/AWM/js/views/users/settings.js",
-		"/Users/anbinh/www/AWM/api/v2/mongo/users/api.php",
-		"/Users/anbinh/www/AWM/api/v2/mongo/users/users.php",
-		"/Users/anbinh/www/AWM/scripts/dealer_stats_monthly_marking.php",
-		"/Users/anbinh/www/AWM/js/templates/config/list_weekly_dealer_sms.html",
-		"/Users/anbinh/www/AWM/scripts/dealer_stats.php",
-		"/Users/anbinh/www/AWM/js/templates/config/employee_stats.html",
-		"/Users/anbinh/www/AWM/js/templates/config/emloyee_stats.html",
-		"/Users/anbinh/www/AWM/js/templates/config/list_batch_sms.html",
-		"/Users/anbinh/www/AWM/api/v2/mongo/bulksms/bulksms.php"
+		"/Users/anbinh/Downloads/auth0-angular-sample/home/home.js"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -1215,6 +1399,112 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"./",
+			"CardSlyce",
+			"./",
+			"roles",
+			"plotVisitorsRole",
+			"role",
+			"visitorsRoleByCountry",
+			"page-views",
+			"completion",
+			"invitation",
+			"year",
+			"i",
+			"$updatedDate",
+			"createdDate",
+			"numberOfAcceptance",
+			"$created_at",
+			"plotGraph(ret);",
+			"visitorsRoleByCountry",
+			"page-views",
+			"createdAtCriteria",
+			"ProjectStats",
+			"KeywordStats",
+			"keywords",
+			"KeywordStats",
+			"i",
+			"stats",
+			"dashboard",
+			"data-portlet-item",
+			"data-plugin-portlet",
+			"plotTopKeywords",
+			"plotKeywordSearch",
+			"currentLayout",
+			"col-md-6",
+			"keywords",
+			"plotKeywordSearch",
+			"role",
+			"visitorsRoleByCountry",
+			"scope.pageViews",
+			"seachedProjectsPerCategory",
+			"visitorsRoleByCountry",
+			"scope.searchedProjects",
+			"keyword",
+			"keywordsByCountry",
+			"keywords",
+			"keywordsByCountry",
+			"scope.visitorsRoleByCountry",
+			"usersByCountryVisits",
+			"searched data",
+			"searched data ",
+			"$timeout(function() {\n                            if (scope.searchedProjects[0].data.length > 0) {\n                                scope.hasPlot = true;\n                                $.plot('#plotSearchedProjects', scope.searchedProjects, plotOptions);\n                            } else {\n                                scope.hasPlot = false;\n                            }\n                        })",
+			"plotVisitorsRole",
+			"visitorsRoleByCountry",
+			"= ret",
+			"searchedProjects",
+			"plotSearchedProjects",
+			"= ret",
+			"var flotDashSales1 = ",
+			"seachedProjectsPerCategory",
+			"plotPageViews",
+			"#plotPageViews",
+			"eViews",
+			"plotPageViews",
+			"views",
+			"= ret",
+			"scope.pageViews,",
+			"scope.pageViews",
+			"selectedFilter",
+			"= ret",
+			"visitors-role",
+			"seachedProjectsPerCategory",
+			"visitorsRoleByCountry",
+			"visitors-role",
+			"visitorsRoleByCountry",
+			"-by-country",
+			"users-country-visit",
+			"user",
+			"usersByCountryVisits",
+			"tenUsersByCountryVisit",
+			"users-country-visit",
+			"user",
+			"usersByCountryVisits",
+			"tenUsersByCountryVisit",
+			"filterUsersByCountryVisit",
+			"$scope",
+			"contry",
+			"filter",
+			"btn",
+			"aaa",
+			"selectedCountry",
+			"href=\"/#/\"",
+			"assets",
+			"href=\"\"",
+			" |",
+			" | ",
+			"user",
+			"userService",
+			"stats",
+			"\"",
+			"skill",
+			"div",
+			"ret",
+			"role",
+			"var ",
+			"express",
+			"users",
+			"storeService",
 			"getYear",
 			"Visitor",
 			"VisitorStats",
@@ -1236,113 +1526,7 @@
 			"project",
 			"PROJECT",
 			"project",
-			"Projects",
-			"350x150",
-			"project",
-			"h3",
-			"h4",
-			"col-xs-12 col-sm-12 ",
-			"auth.profile",
-			"left",
-			"h2",
-			"unstyled",
-			"col-md-4",
-			"col-md-3",
-			"auth",
-			"$scope.",
-			"auth",
-			"isAuthenticated",
-			"auth",
-			"Auth",
-			"auth",
-			"Auth",
-			"auth",
-			"Auth",
-			"auth",
-			"Auth",
-			"auth",
-			"Auth",
-			"auth",
-			"daiviet",
-			"loginModalContent",
-			"ModalInstanceCtrl",
-			"skills",
-			"Effort",
-			".thumbnail",
-			"container-full",
-			"Operations",
-			"Security",
-			"col-sm-3",
-			"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>",
-			"col-sm-4",
-			"col-md-4",
-			"Email",
-			"Projects",
-			"asd",
-			"=",
-			"/",
-			"<div><",
-			"=\"\">",
-			"\"",
-			".user-header, .project-header",
-			"project",
-			"Error!",
-			"Error",
-			"visibility",
-			"Visibility",
-			"visibility",
-			"false",
-			"true",
-			"chargeable",
-			"Chargeable",
-			"chargeable",
-			"category}}",
-			"yyyy-MM-dd",
-			"moement",
-			"new Date",
-			"postedEndDate",
-			"\"DD-MM-YYYY\"",
-			"project",
-			"rateInit",
-			"isOwner",
-			"email",
-			"ProjectSchema",
-			"Question",
-			"questions",
-			"Question",
-			"profile",
-			"business",
-			"$scope.",
-			"invitedUser",
-			"selectedUsers",
-			"apply",
-			"express()",
-			"app",
-			"users",
-			"$scope.project.matchedUsers",
-			"appliedUsers",
-			"matchedUsers",
-			"appliedUsers",
-			"forEac",
-			"Project",
-			"appliedPeople",
-			"invitedUsers",
-			"user",
-			"display",
-			"displayyears",
-			"10px",
-			"src=\"http://placehold.it/140x140\"",
-			" Seeker",
-			"200px",
-			"src=\"http://placehold.it/140x140\"",
-			"projectSeekerSelected",
-			"owner",
-			"> .col-md-4",
-			"0.5",
-			"max-",
-			"circle",
-			"140x140",
-			"width=\"120px\""
+			"Projects"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1425,8 +1609,1809 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "public/app/directives/lib/searched-project-per-category.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4427,
+								4427
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/api/analytics/analyticsRouter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3188,
+								3200
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 535.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/api/users/usersRouter.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 385.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server/inc/error.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								877,
+								877
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server/shared/dashboard.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								573
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/app/services/lib/auth.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1350,
+								7701
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4030.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/shared/admin_login.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/app/templates/admin/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "server/inc/admin/header.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1376,
+								1376
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 157.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "server/inc/head.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1179,
+								1179
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "server/inc/admin/head.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "public/app/templates/admin/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								794
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "public/app/templates/admin/directives/searched-projects-per-category.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "public/app/templates/admin/directives/visitors-role-by-country.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "public/app/templates/admin/directives/completed-projects.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "public/app/templates/admin/directives/page-views.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "public/app/templates/admin/country-detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2803,
+								2803
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 595.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "public/app/directives/lib/content-pieces.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1473,
+								1473
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 19.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "public/app/templates/admin/directives/content-pieces.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "public/app/controllers/lib/admin/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								452
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
 			]
 		}
 	],
